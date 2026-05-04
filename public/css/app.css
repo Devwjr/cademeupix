@@ -84,6 +84,21 @@ body {
     border-bottom: 2px solid #000;
 }
 
+.bg-success { background-color: #FFC107 !important; }
+.text-success { color: #FFC107 !important; }
+.btn-success {
+    background-color: #FFC107 !important;
+    border-color: #FFC107 !important;
+    color: #000 !important;
+}
+.btn-success:hover {
+    background-color: #e6b000 !important;
+    border-color: #e6b000 !important;
+    color: #000 !important;
+}
+.border-success { border-color: #FFC107 !important; }
+.badge.bg-success { background-color: #FFC107 !important; color: #000 !important; }
+
 .table-hover tbody tr:hover {
     background-color: rgba(255, 193, 7, 0.1);
 }
