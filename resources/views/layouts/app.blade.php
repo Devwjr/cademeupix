@@ -17,7 +17,7 @@
 </head>
 <body>
     @auth
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success sticky-top">
         <div class="container">
             <a class="navbar-brand fw-bold" href="{{ route('dashboard') }}">
                 <i class="bi bi-wallet2 me-2"></i>CadêMeuPix
